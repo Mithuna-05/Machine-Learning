@@ -21,8 +21,8 @@ The dataset used in this experiment contains details of loan applicants, includi
 | Attribute                  | Details                                      |
 |---------------------------|----------------------------------------------|
 | **Experiment Name**       | Loan Amount Prediction (Experiment 1)        |
-| **Student Name**          | Harini LV                                    |
-| **Roll Number**           | 3122237001016                                |
+| **Student Name**          | Mithuna S                                    |
+| **Roll Number**           | 3122237001025                                |
 | **Date**                  | 23-07-2025                                   |
 | **Model Used**            | Linear Regression                            |
 | **Dataset Size Used**     | 5,000 rows, 39 features                      |
